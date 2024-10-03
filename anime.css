@@ -1,0 +1,62 @@
+
+
+h1{
+    color:rgb(219, 117, 134);
+    text-align: center;
+    font-family: 'Dancing Script', cursive;
+}
+
+a{
+    color: red;
+}
+img{
+    height: 380px;
+    width:300px;
+    
+}
+.saran{
+    background-color: rgb(94, 94, 103);
+    font-family: 'Dancing Script', cursive;
+    
+    
+    
+}
+
+.suba{
+    background-color:gray;
+    font-family: 'Dancing Script', cursive;
+    
+}
+.bhuvana{
+    background-color: rgb(42, 165, 71);
+    font-family: 'Dancing Script', cursive;
+}
+
+.rasu{
+    background-color:rgb(88, 76, 88) ;
+    font-family: 'Dancing Script', cursive;
+}
+.tamako{
+    background-color: rgb(124, 103, 104);
+    font-family: 'Dancing Script', cursive;
+}
+.p{
+       float: left;
+}
+
+
+body{
+    background-color:skyblue;
+}
+div{
+    border:30px GROOVE brown;
+    margin-left: 20px;
+    width:500px;
+    height:500px;
+  
+   
+}
+
+
+
+
